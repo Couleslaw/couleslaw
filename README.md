@@ -2,7 +2,7 @@
 <h3 align="center">A math enjoyer and a student at MFF CUNI</h3>
 
 - I’m currently learning **C# and Unity**
-- I put most of the math stuff I write [here](https://github.com/Couleslaw/my-papers).
+- I put most of the math-related stuff I write [here](https://github.com/Couleslaw/my-papers)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
