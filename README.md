@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Jakub Smolik</h1>
 <h3 align="center">A math enjoyer and a student at MFF CUNI</h3>
 
-- 🔭 I’m currently working on [Ad Caelum](https://github.com/MiraZzle/ad-caelum)
-
 - 🌱 I’m currently learning **C# and Unity**
 
 <h3 align="left">Languages and Tools:</h3>
